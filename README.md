@@ -30,7 +30,7 @@ DebatedAI is different.
 
 That second opinion is the **debate**. It’s not a chatbot. It’s a workspace that refuses to ship unchallenged code.
 
-> **Live product:** [https://devtool.freedev.app](https://devtool.freedev.app)  
+> **Live product:** [https://debatedai.vercel.app](https://debatedai.vercel.app)  
 > Free tier · 2 builds / day · No credit card
 
 ---
