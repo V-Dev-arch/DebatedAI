@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://devtool.freedev.app"><img src="https://img.shields.io/badge/Live_App-devtool.freedev.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a>
+  <a href="https://debatedai.vercel.app"><img src="https://img.shields.io/badge/Live_App-debatedai.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a>
   <a href="https://devtool.freedev.app/docs"><img src="https://img.shields.io/badge/Docs-Read_the_docs-111827?style=for-the-badge" alt="Docs" /></a>
   <img src="https://img.shields.io/badge/Status-Public_Beta-10B981?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/BYOK-Coming_Soon-F59E0B?style=for-the-badge" alt="BYOK" />
