@@ -90,7 +90,7 @@ That second opinion is the **debate**. It’s not a chatbot. It’s a workspace 
 
 We’re shipping **Bring Your Own Keys** so power users and teams can:
 
-- Plug in their own **Z.ai** and **NVIDIA** API keys  
+- Plug in their own AI API keys  
 - Remove shared free-tier limits  
 - Keep full control of cost, rate limits, and model access  
 - Still get the same dual-model debate pipeline  
